@@ -91,7 +91,7 @@ public class Principal {
             System.out.println(compu.toString());
             
         }
-        System.out.println("Hola xd");
+        System.out.println("Hola xd xd");
         }
     }
     
